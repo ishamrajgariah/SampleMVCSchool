@@ -1,0 +1,42 @@
+﻿@model IEnumerable< School.Entities.ViewModels.TeacherDisplayViewModel>
+
+@{
+    ViewBag.Title = "Teachers List";
+}
+
+<h2>Teachers List</h2>
+<p>
+    To see the dropdown lists in action, click "Create New".
+</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TeacherName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TeacherId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TeacherName)
+            </td>
+            <td>
+                @Html.ActionLink("Students", "Index", "Student", new { teacherId = item.TeacherId }, null)
+            </td>
+        </tr>
+    }
+
+</table>

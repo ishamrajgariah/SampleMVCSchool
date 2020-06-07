@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SampleMVC/packages
+/SampleMVC/.vs/SampleMVC
+/SampleMVC/School.Data/obj/Debug
+/SampleMVC/School.Data/bin/Debug
+/SampleMVC/School.Entities/obj/Debug
+/SampleMVC/School.Entities/bin/Debug
+/SampleMVC/School.Web/bin
+/SampleMVC/School.Web/obj/Debug
