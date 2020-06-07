@@ -1,0 +1,12 @@
+D:\SampleMVC\School.Entities\bin\Debug\School.Entities.dll
+D:\SampleMVC\School.Entities\bin\Debug\School.Entities.pdb
+D:\SampleMVC\School.Entities\obj\Debug\School.Entities.csproj.CoreCompileInputs.cache
+D:\SampleMVC\School.Entities\obj\Debug\School.Entities.dll
+D:\SampleMVC\School.Entities\obj\Debug\School.Entities.pdb
+D:\SampleMVC\School.Entities\obj\Debug\School.Entities.csprojAssemblyReference.cache
+D:\SampleMVCSchool\SampleMVC\School.Entities\bin\Debug\School.Entities.dll
+D:\SampleMVCSchool\SampleMVC\School.Entities\bin\Debug\School.Entities.pdb
+D:\SampleMVCSchool\SampleMVC\School.Entities\obj\Debug\School.Entities.csprojAssemblyReference.cache
+D:\SampleMVCSchool\SampleMVC\School.Entities\obj\Debug\School.Entities.csproj.CoreCompileInputs.cache
+D:\SampleMVCSchool\SampleMVC\School.Entities\obj\Debug\School.Entities.dll
+D:\SampleMVCSchool\SampleMVC\School.Entities\obj\Debug\School.Entities.pdb
